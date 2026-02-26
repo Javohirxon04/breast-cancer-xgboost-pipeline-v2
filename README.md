@@ -1,5 +1,3 @@
-# 📘 Modul-4 Code Exam Explanation
-
 ## XGBoost Pipeline – Step by Step Explanation
 
 Bu hujjat **XGBoost + Pipeline Breast Cancer Classification** loyihasining **qatorma-qator tushuntirishi** hisoblanadi.
@@ -581,8 +579,6 @@ Bu loyiha quyidagilarni ko‘rsatadi:
 * Recall
 * Feature Importance
 
-
-# 🧪 Modul-4 Code Exam
 
 ## XGBoost Pipeline – Breast Cancer Classification
 
